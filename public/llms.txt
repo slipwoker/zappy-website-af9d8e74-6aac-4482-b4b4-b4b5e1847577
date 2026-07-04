@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-af9d8e74.zappy5.app
+https://example.com
 גלו את הממלכה הכי רכה ברשת! סקווישים לבני נוער במבחר דמויות צבעוניות, קניית סקווישים אונליין ישראל בקליק אחד. הצטרפו לכיף ולחצו עכשיו!
 
 ### אודות
-https://-af9d8e74.zappy5.app/about
+https://example.com/about
 הכירו את גילי ויובל ואת האהבה הגדולה לסקווישים שהפכה לחנות חלומותית. סקווישים לבני נוער עם נשמה של כיף – בואו לשמוע איך הכל התחיל!
 
 ### טיפוח סקווישי
-https://-af9d8e74.zappy5.app/squishy-care
+https://example.com/squishy-care
 רוצים שהסקווישים שלכם יישארו מתוקים כמו ביום הראשון? טיפים סודיים לניקוי, אחסון ושימור מושלם. קניית סקווישים אונליין ישראל מתחילה באהבה!
 
 ### שאלות נפוצות
-https://-af9d8e74.zappy5.app/faq
+https://example.com/faq
 תשובות שוות לכל השאלות שלכם! משלוחים, תשלום, והכי חשוב – איזה סקווישים מגניבים לקנות עכשיו. קניית סקווישים אונליין ישראל מעולם לא הייתה פשוטה יותר.
 
 ### צור קשר
-https://-af9d8e74.zappy5.app/contact
+https://example.com/contact
 יש רעיון לסקווישי מיוחד? רוצים להתייעץ? אנחנו כאן בשבילכם! צרו קשר וגלו עולם של סקווישים לבני נוער שמחכה רק לכם. בואו נדבר!
 
 ### Products
-https://-af9d8e74.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - עולם הסקווישים של גילי ויובל 🫶🤍🩷
 
 ### Cart
-https://-af9d8e74.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-af9d8e74.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-af9d8e74.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-af9d8e74.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-af9d8e74.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-af9d8e74.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - עולם הסקווישים של גילי ויובל 🫶🤍🩷
 
 ### Category
-https://-af9d8e74.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - עולם הסקווישים של גילי ויובל 🫶🤍🩷
 
 ### תודה שפניתם אלינו
-https://-af9d8e74.zappy5.app/thank-you
+https://example.com/thank-you
 עולם הסקווישים של גילי ויובל 🫶🤍🩷 - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-af9d8e74.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-af9d8e74.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-af9d8e74.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ E-commerce / Toys & Collectibles
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-af9d8e74.zappy5.app/sitemap.xml
-- Robots: https://-af9d8e74.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-af9d8e74.zappy5.app/llms-full.txt
-- Products (JSON): https://-af9d8e74.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-af9d8e74.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
